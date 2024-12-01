@@ -1,0 +1,6 @@
+[package]
+name = "maplestory-account-manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

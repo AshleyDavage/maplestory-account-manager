@@ -1,12 +1,15 @@
 # Maplestory Account Manager
 
-This is a Rust application designed to help manage a Maplestory account's Legion and character progression.
+This is a Rust application designed to help manage a [Maplestory](https://www.nexon.com/maplestory/) account's Legion and character progression.
 
-Built with Rust and the Slint library.
+Built with Rust and the [Slint](https://slint.dev/) library.
 
 ## Features
 
 - Track character progression
+    - What bosses can it defeat?
+    - Daily/Weekly crystal estimation
+    - User-defined goals
 - Show which classes have been "completed" for legion
 - Show link skills and legion bonuses
 
